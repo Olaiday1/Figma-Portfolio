@@ -14,6 +14,12 @@ export default {
         blueAsh:'#2F3746',
         black: '#00000073',
         blackBlue: '#00000061',
+        ash: ' #4D4D4D',
+        yellow :'#FDBA0E',
+        ashWhite: '#CCCCCC26',
+        white: '#FFFFFF',
+        whiteAsh:'#F7F7F7',
+        black: '#1A1A1A',
       }
     },
   },
