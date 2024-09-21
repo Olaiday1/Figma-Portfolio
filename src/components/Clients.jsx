@@ -13,8 +13,10 @@ const Clients = () => {
 
             <div className="h-1 bg-pink w-24 mt-2 justify-center items-center rounded">
                 </div>
-        </div>
-                         <div className=" flex gap-10">
+                </div> 
+
+         <div className=" flex gap-10">
+
                              <div className="mt-40"> 
                         <img src={Great} alt="" />
                          </div>

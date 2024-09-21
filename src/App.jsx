@@ -13,7 +13,7 @@ const App = () => {
   return (
     <>
     
-      <div className="bg-customBlue ">
+      <div className="bg-customBlue">
       <Navbar />
     </div>
     <div className="bg-deepBlue">
